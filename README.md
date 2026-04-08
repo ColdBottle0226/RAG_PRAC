@@ -1,0 +1,2 @@
+# RAG_PRAC
+RAG 학습
